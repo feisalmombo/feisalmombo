@@ -1,4 +1,4 @@
-# I'm a Father, Friend, Developer and Brother, Consultant!!
+# I'm a Father, Friend, Developer, Brother, and Consultant!!
 - 👋 Hi, I’m @feisalmombo
 - 👀 I’m interested in Technology Enthusiast
 - 🌱 I’m currently learning on Datascience and API Documentation and Implementation
