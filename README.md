@@ -17,6 +17,12 @@ You can click the Preview link to take a look at your changes.
 - BOOTSTRAP
 - JAVASCRIPT (VUE JS, ANGULAR, JQUERY)
 - LARAVEL
+- DJANGO
+- Testing/Debugging
+- Browser Developer Tools
+- Web Performance
+- Understand the principle of SEO
+- Build reusable code for future use
 
 ## **Back End**
 - PHP
@@ -25,12 +31,24 @@ You can click the Preview link to take a look at your changes.
 - Laravel API
 - Slim Framework
  
- ## **Graphics**
+ ## **Design**
  - Canva
  - Figma
  - Adobephotoshop
  - Photopea
  - Responsive web design
+
+## **API Test**
+- Postman
+- Insomnia
+
+## **Collaborative Tools**
+- Teamviewier
+- Google Meeting
+- Zoom
+- Trello
+- AnyDesk
+- Skype
  
 ## **Version Control**
 - Git
@@ -38,10 +56,74 @@ You can click the Preview link to take a look at your changes.
 - Bitbucket
 - GitLab
 
-## **Database**
+## **Databases**
 - MySQL
-- Microsoft SQL Server
+- Microsoft SQL Server	
+- MariaDB
 
 ## **Servers**
 - Apache
 - Nginx
+
+## **Operating System**
+- Android
+- Cent OS	
+- Linux
+- Windows
+- macOS
+- Linux Mint	
+
+## **Office**
+- LibreOffice	
+- Microsoft
+- Microsoft Excel	
+- Microsoft Office	
+- Microsoft PowerPoint	
+- Microsoft Word	
+
+## **IDEs/Editors**
+- Android Studio	
+- Eclipse
+- IntelliJ IDEA	
+- NetBeans IDE	
+- Notepad++	
+- PhpStorm
+- PyCharm
+- Sublime Text	
+- Visual Studio Code	
+
+## **Hosting/SaaS**
+- AWS
+- Cloudflare
+- DigitalOcean
+- Heroku
+- Google Cloud	
+- Cpanel
+
+## **Cloud Storage**
+- Dropbox	
+- Google Drive	
+- Microsoft OneDrive	
+
+## **Statistics Tools for Research and Data Manipulation**
+- SPSS
+- EPINFO
+
+## **Other Skills**
+- Mobile maintenance and repair
+- System Hosting and Deployment
+- Graphics design using Canva, Photopea
+- Code reuse
+- UI/UX Design
+- Database design
+- System analysis and Design
+- Networking (LAN, WAN)
+- Debugging - System analysis
+- IT Consultantion based on new Technology
+- CCTV installation
+- Digital Marketing (SEO, Google Analytics setups)
+- Software Installation for mobile, laptop, desktop
+- Cooking
+- Cleaning
+- Playing football number 9, 10
+- listening music
