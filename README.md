@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feisalmombo&theme=radical)
+
+# Languages & Frameworks
+- ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
