@@ -1,7 +1,7 @@
 ## **I'm a Father, Friend, Developer, Brother, and Consultant!!**
 - 👋 Hi, I’m @feisalmombo
 - 👀 I’m interested in Technology Enthusiast
-- 🌱 I’m currently learning on Datascience and API Documentation and Implementation
+- 🌱 I’m currently learning on Datascience, Machine Learning and API Documentation and Implementation
 - 💞️ I’m looking to collaborate on Open Source projects and Share knowledges with other developers
 
 <!---
