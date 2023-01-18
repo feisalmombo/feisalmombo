@@ -9,7 +9,7 @@ feisalmombo/feisalmombo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=feisalmombo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feisalmombo&show_icons=true&theme=radical)
 ## **Front End**
 - HTML
 - CSS
