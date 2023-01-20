@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 - CSS
 - BOOTSTRAP
 - JAVASCRIPT (VUE JS, ANGULAR, JQUERY)
+- Tailwind CSS
 - LARAVEL
 - DJANGO
 - Testing/Debugging
@@ -48,6 +49,7 @@ You can click the Preview link to take a look at your changes.
 - Trello
 - AnyDesk
 - Skype
+- Jira
  
 ## **Version Control**
 - Git
@@ -126,3 +128,4 @@ You can click the Preview link to take a look at your changes.
 - Cleaning
 - Playing football number 9, 10
 - listening music
+- Dancer
