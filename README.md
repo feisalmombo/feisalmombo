@@ -1,8 +1,8 @@
-## **I'm a Father, Friend, Developer, Brother, and Consultant!!**
+## **I'm a Developer, Father, Friend, Brother, and Consultant!!**
 - 👋 Hi, I’m @feisalmombo
 - 👀 I’m interested in Technology Enthusiast
-- 🌱 I’m currently learning on Datascience, Machine Learning and API Documentation and Implementation
-- 💞️ I’m looking to collaborate on Open Source projects and Share knowledges with other developers
+- 🌱 I’m currently learning about Data Science, Machine Learning, and API Documentation and Implementation
+- 💞️ I’m looking to collaborate on Open Source projects and share knowledge with other developers
 
 <!---
 feisalmombo/feisalmombo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 - Insomnia
 
 ## **Collaborative Tools**
-- Teamviewier
+- Teamviewer
 - Google Meeting
 - Zoom
 - Trello
@@ -117,15 +117,15 @@ You can click the Preview link to take a look at your changes.
 - Code reuse
 - UI/UX Design
 - Database design
-- System analysis and Design
+- System Analysis and Design
 - Networking (LAN, WAN)
 - Debugging - System analysis
-- IT Consultantion based on new Technology
+- IT Consultation based on new Technology
 - CCTV installation
 - Digital Marketing (SEO, Google Analytics setups)
-- Software Installation for mobile, laptop, desktop
+- Software Installation for mobile, laptop, and desktop
 - Cooking
 - Cleaning
 - Playing football number 9, 10
-- listening music
+- listening to music
 - Dancer
